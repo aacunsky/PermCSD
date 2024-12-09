@@ -1,7 +1,7 @@
 % Pipeline for Permutation Clustermass Analysis with Boundaries
 
 % This includes scripts and input specific to this analysis. Please site if
-% used: 
+% used: https://www.sciencedirect.com/science/article/abs/pii/S0197458022001762?via%3Dihub
 
 %% Get started
 
